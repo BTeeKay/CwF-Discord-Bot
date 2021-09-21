@@ -14,4 +14,4 @@ class MyClient(discord.Client):
             await message.channel.send('Hello World!')
 
 client = MyClient()
-client.run('ODg4OTE2NDQ1Njg0MTg3MTc2.YUZp8w.ut-KQsj5kd-7Ezk_kS4rkUMFfaA')
+#client.run('ODg4OTE2NDQ1Njg0MTg3MTc2.YUZp8w.ut-KQsj5kd-7Ezk_kS4rkUMFfaA') Not real Token
